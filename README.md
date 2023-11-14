@@ -1,2 +1,3 @@
 # Far_Away
-Created with CodeSandbox
+Created by Kunal with ❤️.
+Live link: https://kunalfaraway.netlify.app
